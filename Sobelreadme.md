@@ -6,7 +6,10 @@ Grayscale image
 
 
 <img width="315" height="315" alt="output_edge.bmp" src="https://github.com/user-attachments/files/22039849/output_edge.bmp" />
+
+
 Edge image
+
 ## 문서 관리 정보
  - 문서 ID: BMP-DO178C-003
  - 버전: 2.1 / 날짜: 2025년 8월 29일
