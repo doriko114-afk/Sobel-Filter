@@ -1,7 +1,9 @@
 # BMP 이미지 처리 소프트웨어 (그레이스케일, 엣지 검출, MEM 생성)
 <img width="315" height="315" alt="brainct_001" src="https://github.com/user-attachments/assets/8d03445f-322d-4cc2-9d90-251370a270b4" />
 #Grayscale Image
-[output_edge.bmp](https://github.com/user-attachments/files/22039584/output_edge.bmp)
+
+<img width="315" height="315" alt="output_edge.bmp" src="https://github.com/user-attachments/files/22039584/output_edge.bmp" />
+ 
 #Edge Image
 
 ## 문서 관리 정보
